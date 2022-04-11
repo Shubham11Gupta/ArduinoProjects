@@ -21,3 +21,4 @@ void loop() {
     u8g.drawBox(10,15,value,10);
   }while(u8g.nextPage());
 }
+//https://wokwi.com/projects/328663315274269266
